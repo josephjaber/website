@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raleigh.rb</title>
+    <link>http://www.raleighrb.com</link>
+    <description>The official podcast from Raleigh's very own Ruby meetup group.</description>
+    <language>en-us</language>
+    <copyright>2008</copyright>
+    <lastBuildDate>Sun, 21 Feb 2010 00:00:00 GMT</lastBuildDate>
+    <webMaster>pelargir@gmail.com (Matthew Bass)</webMaster>
+    <ttl>1</ttl>
+    <atom:link href="http://www.raleighrb.com/podcast" rel="self" type="application/rss+xml" />
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2010-08-17.m4a</guid>
+      <title>A/B Testing for Developers</title>
+      <description>Matthew Bass explains how developers can use A/B testing to improve their apps.</description>
+      <pubDate>Tue, 17 August 2010 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2010-08-17.m4a" length="23873429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2010-05-18.m4a</guid>
+      <title>Building Native Extensions</title>
+      <description>Sean Johnson demonstrates how to build native extensions for Ruby.</description>
+      <pubDate>Tue, 18 May 2010 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2010-05-18.m4a" length="41641428" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2010-04-20.m4a</guid>
+      <title>Riak and Ripple</title>
+      <description>Kevin Smith and Sean Cribbs talk about how Riak works, why you might want to choose Riak, and how to use Ripple as your own persistence.</description>
+      <pubDate>Tue, 20 Apr 2010 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2010-04-20.m4a" length="35760989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2010-03-16.m4a</guid>
+      <title>Ruby Dependency Management</title>
+      <description>Rob Sanheim takes us on a rip-roaring journey through the world of dependency management.</description>
+      <pubDate>Tue, 16 Mar 2010 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2010-03-16.m4a" length="20418126" type="audio/mpeg"/>
+    </item>    
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2010-02-16.mp3</guid>
+      <title>Story-Driven Development with Cucumber</title>
+      <description>Sean Cribbs introduces us to the Cucumber testing framework for Ruby.</description>
+      <pubDate>Tue, 16 Feb 2010 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2010-02-16.mp3" length="20866438" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2010-01-19.mp3</guid>
+      <title>Spree: The Good, the Bad, and the Ugly</title>
+      <description>Ken Auer talks about the pros and cons of the Spree e-commerce platform for Ruby.</description>
+      <pubDate>Tue, 19 Jan 2010 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2010-01-19.mp3" length="26642007" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2009-10-20.m4a</guid>
+      <title>RiCal: A Rubyist's Guide to Dating</title>
+      <description>Rick DeNatale talks about dates, time zones, and his RiCal gem.</description>
+      <pubDate>Tue, 20 Oct 2009 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2009-10-20.m4a" length="28360248" type="audio/aac"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2009-09-15.m4a</guid>
+      <title>Soft Skills</title>
+      <description>Mark Mzyk riffs on soft skills accompanied by a jazz soundtrack.</description>
+      <pubDate>Tue, 15 Sep 2009 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2009-09-15.m4a" length="20331959" type="audio/aac"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2009-08-18_prawn.mp3</guid>
+      <title>Generating Rich PDFs with Prawn</title>
+      <description>Matthew Bass gives an overview of Prawn, a PDF generation library for Ruby.</description>
+      <pubDate>Tue, 18 Aug 2009 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2009-08-18_prawn.mp3" length="22946903" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2009-07-21_blueridge.m4a</guid>
+      <title>JavaScript Testing in Rails</title>
+      <description>Jason Rudolph and Larry Karnowski talk about the Blue Ridge testing framework.</description>
+      <pubDate>Tue, 21 Jul 2009 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2009-07-21_blueridge.m4a" length="20061715" type="audio/aac"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2009-06-16_chef.mp3</guid>
+      <title>Tasty Infrastructure</title>
+      <description>Mark Imbriaco introduces Chef and walks us through the process of creating cookbooks and recipes.</description>
+      <pubDate>Tue, 16 Jun 2009 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2009-06-16_chef.mp3" length="39798541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2009-05-19_couchdb.mp3</guid>
+      <title>Alternate Databases</title>
+      <description>Kevin Smith introduces us to CouchDB and redit, two alternatives to relational databases.</description>
+      <pubDate>Tue, 19 May 2009 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2009-05-19_couchdb.mp3" length="23604098" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2009-04-21_macruby.mp3</guid>
+      <title>MacRuby</title>
+      <description>Sean Johnson covers MacRuby, a port of Ruby 1.9 that runs in Mac OS X's Objective-C runtime.</description>
+      <pubDate>Tue, 21 Apr 2009 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2009-04-21_macruby.mp3" length="42543672" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2009-02-17_rails_authentication_solutions.mp3</guid>
+      <title>Rails Authentication Solutions</title>
+      <description>Aaron Bedra talks about Rails authentication.</description>
+      <pubDate>Tue, 17 Feb 2009 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2009-02-17_rails_authentication_solutions.mp3" length="19277754" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2009-01-27_radiant.mp3</guid>
+      <title>Content Management That Won't Rot Your Brain</title>
+      <description>Sean Cribbs introduces us to the Radiant CMS framework.</description>
+      <pubDate>Tue, 27 Jan 2009 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2009-01-27_radiant.mp3" length="18097797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2008-11-18_distributed_computing.mp3</guid>
+      <title>Patterns in Distributed Computing</title>
+      <description>Mike Perham from Five Runs discusses distributed computing problems and solutions.</description>
+      <pubDate>Tue, 18 Nov 2008 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2008-11-18_distributed_computing.mp3" length="20860168" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2008-10-21_fear.mp3</guid>
+      <title>Fear of Programming</title>
+      <description>Nathaniel Talbott gives us a preview of his RubyConf talk about emotions and coding.</description>
+      <pubDate>Tue, 21 Oct 2008 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2008-10-21_fear.mp3" length="31513471" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2008-08-19_how_to_fail.mp3</guid>
+      <title>How to Fail with 100% Test Coverage</title>
+      <description>Jason Rudolph talks about testing with Ruby and why 100% code coverage doesn't mean you've tested everything.</description>
+      <pubDate>Tue, 19 Aug 2008 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2008-08-19_how_to_fail.mp3" length="34404226" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2008-07-15_ruby_roi.mp3</guid>
+      <title>Ruby ROI</title>
+      <description>Jeff Keating explains how switching to Ruby results in better ROI, solid products, and more competent developers.</description>
+      <pubDate>Tue, 15 Jun 2008 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2008-07-15_ruby_roi.mp3" length="28172662" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2008-06-17_dynamic_langs.mp3</guid>
+      <title>The Fall and Rise of Dynamic Languages</title>
+      <description>Rick DeNatale traces the history of the key ideas behind dynamic object-oriented languages, and how they relate to the languages and practices of today.</description>
+      <pubDate>Tue, 17 Jun 2008 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2008-06-17_dynamic_langs.mp3" length="46787907" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2008-05-20_seaside.mp3</guid>
+      <title>An Intro to Seaside</title>
+      <description>James Robertson introduces Seaside, an open source, cross-Smalltalk web application framework.</description>
+      <pubDate>Tue, 20 May 2008 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2008-05-20_seaside.mp3" length="28894507" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2008-04-15_rest.mp3</guid>
+      <title>Domain Modeling with REST</title>
+      <description>Ben Scofield explains how to model complex applications using REST.</description>
+      <pubDate>Tue, 15 Apr 2008 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2008-04-15_rest.mp3" length="28797943" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2008-03-18_lightning.mp3</guid>
+      <title>Lightning Talks</title>
+      <description>Brigade members talk about git, referential integrity, object orientation, and more.</description>
+      <pubDate>Tue, 18 Mar 2008 19:00:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2008-03-18_lightning.mp3" length="26686116" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2008-02-19_productivity.mp3</guid>
+      <title>I Can Has Productivity?</title>
+      <description>How can you find time to write code, learn new things, build your skill set, and keep an eye on the big picture? Rob Sanheim discusses the relationship between productivity, agility, and effectiveness.</description>
+      <pubDate>Tue, 19 Feb 2008 22:11:00 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2008-02-19_productivity.mp3" length="26487073" type="audio/mpeg"/>
+    </item>
+    <item>
+      <guid>http://www.raleighrb.com/podcast/2008-01-15_aws.mp3</guid>
+      <title>Amazon Web Services</title>
+      <description>Mike Culver from Amazon.com provides an overview of Amazon Web Services.</description>
+      <pubDate>Sat, 9 Feb 2008 12:25:44 GMT</pubDate>
+      <enclosure url="http://www.raleighrb.com/podcast/2008-01-15_aws.mp3" length="33396633" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
