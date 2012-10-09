@@ -2,6 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     gchartrb (0.8)
+    hpricot (0.8.6)
     rack (1.4.1)
     rack-protection (1.2.0)
       rack
@@ -16,4 +17,5 @@ PLATFORMS
 
 DEPENDENCIES
   gchartrb (~> 0.8)
+  hpricot (~> 0.8)
   sinatra (~> 1.3)

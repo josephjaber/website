@@ -44,9 +44,6 @@ class Chart
   end
   
   def self.update
-    `wget -O chart.png "#{Chart.new.url}"`
+    `wget -O public/images/chart.png "#{Chart.new.url}"`
   end
 end
-
-#puts Chart.new.pull_data.inspect
-#`open "#{Chart.new.url}"`
