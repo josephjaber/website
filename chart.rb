@@ -14,7 +14,8 @@ class Chart
     doc = open("http://api.meetup.com/events.xml?group_urlname=raleighrb&after=#{after}&before=#{before}&status=past&format=xml&key=#{key}") { |f| Hpricot.XML(f) }
     
     (doc/"results/items/item").map do |item|
-      next unless (item/"venue_id").inner_html == "390501" # iContact (25606 = RedHat)
+      venue_id = (item/"venue_id").inner_html
+      next unless Venue.all.include?(venue_id)
       month = Date.parse((item/"time").inner_html).strftime('%b')
       count = (item/"rsvpcount").inner_html.to_i
       result << [month, count]
@@ -45,5 +46,15 @@ class Chart
   
   def self.update
     `wget -O public/images/chart.png "#{Chart.new.url}"`
+  end
+end
+
+class Venue
+  RED_HAT = "25606"
+  ICONTACT = "390501"
+  WEBASSIGN = "1440374"
+  
+  def self.all
+    [RED_HAT, ICONTACT, WEBASSIGN]
   end
 end
