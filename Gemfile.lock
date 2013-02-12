@@ -3,6 +3,7 @@ GEM
   specs:
     gchartrb (0.8)
     hpricot (0.8.6)
+    json (1.7.7)
     rack (1.4.1)
     rack-protection (1.2.0)
       rack
@@ -18,4 +19,5 @@ PLATFORMS
 DEPENDENCIES
   gchartrb (~> 0.8)
   hpricot (~> 0.8)
+  json (~> 1.5)
   sinatra (~> 1.3)
