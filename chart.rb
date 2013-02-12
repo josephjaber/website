@@ -2,6 +2,7 @@ require 'rubygems'
 require 'google_chart'
 require 'hpricot'
 require 'open-uri'
+require 'yaml'
 
 class Chart
   def pull_data
